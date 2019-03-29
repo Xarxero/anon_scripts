@@ -6,7 +6,7 @@ The example '*' needs to be replaced by the script name -> *.sh should be unstuc
 
 Basic installation in terminal:
 -------------------------------
-wget *.sh
+wget https://github.com/Xarxero/anon_scripts/blob/master/*.sh
 
 sudo chmod u+x *.sh
 
@@ -16,7 +16,7 @@ sudo chmod u+x *.sh
 
 Specific installation for unstuck_masternode:
 ---------------------------------------------
-wget unstuck_masternode.sh
+wget https://github.com/Xarxero/anon_scripts/blob/master/unstuck_masternode.sh
 
 sudo chmod u+x unstuck_masternode.sh
 
