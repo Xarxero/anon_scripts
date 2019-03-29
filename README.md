@@ -3,6 +3,7 @@ Additional installation tools for ANON
 
 
 The example '*' needs to be replaced by the script name -> *.sh should be unstuck_masternode.sh
+
 Basic installation in terminal:
 -------------------------------
 wget *.sh
@@ -10,6 +11,7 @@ wget *.sh
 sudo chmod u+x *.sh
 
 ./*.sh
+
 
 
 Specific installation for unstuck_masternode:
