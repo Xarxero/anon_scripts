@@ -6,12 +6,16 @@ The example '*' needs to be replaced by the script name -> *.sh should be unstuc
 Basic installation in terminal:
 -------------------------------
 wget *.sh
+
 sudo chmod u+x *.sh
+
 ./*.sh
 
 
 Specific installation for unstuck_masternode:
 ---------------------------------------------
 wget unstuck_masternode.sh
+
 sudo chmod u+x unstuck_masternode.sh
+
 ./unstuck_masternode.sh
