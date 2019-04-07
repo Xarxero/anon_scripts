@@ -5,8 +5,8 @@ Additional installation tools for ANON
 The example '*' needs to be replaced by the script name -> *.sh should be unstuck_masternode.sh
 
 
-Basic installation in terminal:
--------------------------------
+Check you operating system:
+---------------------------
 **IMPORTANT** Linux users and Masternode holders have to make sure they user at least Ubuntu 18.04 - If you are still using Ubuntu 16.04 you have to upgrade to 18.04
 
 ```sudo apt-get update```
